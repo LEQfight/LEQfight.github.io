@@ -1,32 +1,43 @@
 ---
 permalink: /
-title: "关于我"
+title: "About Me"
 author_profile: true
+
 redirect_from:
   - /about/
   - /about.html
 ---
 
-我叫刘恩绮，目前是大连理工大学人工智能专业本科生，预计于 2029 年 7 月毕业。我关注大语言模型及相关应用，也在计算机视觉方向持续学习和积累。
+I am an undergraduate student majoring in Artificial Intelligence at Dalian University of Technology. My interests include large language models (LLMs), reasoning, multilingual learning, and applications of deep learning.
 
-教育背景
-======
-大连理工大学 · 人工智能专业 · 本科在读（预计 2029 年 7 月毕业）。
+I am particularly interested in how LLMs represent information and develop reasoning capabilities, and how fine-tuning and evaluation can help us understand and improve these models. My experience includes deep learning experiments, model evaluation, data analysis, and collaborative research projects.
 
-研究与论文
+Research Interests
 ======
-**ReaCR: Reasoning-Conditioned Representation Learning for Fake News Detection**，ICIC 2026 会议投稿论文，第三作者。该工作探索推理条件化表征学习在虚假新闻检测中的应用。我负责部分实验运行和实验数据整理，并配合团队汇总实验结果。
+- **Large language models and reasoning:** Reasoning-related representations, model capabilities, and fine-tuning strategies.
+- **Multilingual learning:** Cross-language transfer, multilingual evaluation, and the effect of training languages on model behavior.
+- **Deep learning applications:** Natural language processing, computer vision, and intelligent systems for practical problems.
 
-竞赛项目
+Research Paper
 ======
-**基于深度学习的机床关键部位应力位移云图的快速预测**，大连理工大学第二十二届“攀登杯”校级二等奖。我担任队长，负责推进团队协作与项目任务落地。
+**ReaCR: Reasoning-Conditioned Representation Learning for Fake News Detection** — submitted to ICIC 2026; third author. This work studies whether reasoning-related representations from LLMs can improve fake news detection. I contributed to experimental implementation, data processing, model evaluation, and analysis of the results.
 
-技术与学术能力
+Research Projects
 ======
-- 熟悉 PyTorch；基本使用 Linux、Git 和 LaTeX。
-- 人工智能程序设计 100 分，高级程序设计 96 分。
-- 大学英语六级（CET-6）467 分。
+- **Large Language Model Fine-tuning and Evaluation:** Experiments with open-source LLMs, parameter-efficient fine-tuning, and model capability evaluation. Technologies explored include PyTorch, Qwen models, LoRA, and reinforcement learning.
+- **Multilingual Large Language Model Transfer Analysis:** Investigation of multilingual capability and cross-language transfer through model evaluation and analysis of language interactions.
+- **Deep Learning-based Engineering Application:** Led a team developing a deep learning approach for rapid prediction of stress and displacement fields in key machine components. The project received Second Prize in the Dalian University of Technology "Climbing Cup" Innovation Competition.
 
-联系
+Education
 ======
-欢迎通过 [电子邮件](mailto:3327007710@qq.com) 与我交流，也可以访问我的 [GitHub](https://github.com/LEQfight)。
+**Dalian University of Technology** — B.S. in Artificial Intelligence, 2025–present.
+
+Skills
+======
+- **Programming and frameworks:** Python, PyTorch.
+- **Tools:** Linux, Git, LaTeX.
+- **Research areas:** Large language models, deep learning, natural language processing, and computer vision.
+
+Contact
+======
+Email: [3327007710@qq.com](mailto:3327007710@qq.com) · GitHub: [LEQfight](https://github.com/LEQfight)

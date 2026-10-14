@@ -1,9 +1,9 @@
 ---
-title: "基于深度学习的机床关键部位应力位移云图的快速预测"
-excerpt: "大连理工大学第二十二届“攀登杯”校级二等奖；担任队长，推进团队协作与项目任务落地。"
+title: "Deep Learning-based Engineering Application"
+excerpt: "Team leader; Second Prize in the Dalian University of Technology 'Climbing Cup' Innovation Competition."
 collection: portfolio
 ---
 
-围绕深度学习开展机床关键部位应力位移云图的快速预测。
+As team leader, I worked on a deep learning approach for rapid prediction of stress and displacement fields in key machine components. I coordinated the team and helped bring the project to completion.
 
-我担任项目队长，负责推进团队协作与项目任务落地。项目获得大连理工大学第二十二届“攀登杯”校级二等奖。
+The project received Second Prize in the Dalian University of Technology "Climbing Cup" Innovation Competition.
