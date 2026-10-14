@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "个人简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育背景
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 大连理工大学，人工智能专业，本科在读，预计 2029 年 7 月毕业。
 
-Work experience
+论文经历
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **LMRAR: Probing LLM Reasoning-Aware Representation for Fake News Detection**，ICIC 2026 会议投稿论文，第三作者。
+  * 面向虚假新闻检测，探索大语言模型推理感知表征的应用。
+  * 负责部分实验运行与实验数据整理，配合团队完成实验结果汇总。
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+竞赛项目经历
+======
+* **基于深度学习的机床关键部位应力位移云图的快速预测**，大连理工大学第二十二届“攀登杯”校级二等奖。
+  * 担任队长，推进团队协作与项目任务落地。
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+技术与学术能力
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PyTorch（熟悉）；Linux、Git、LaTeX（基本使用）。
+* 人工智能程序设计 100 分；高级程序设计 96 分。
+* 大学英语六级（CET-6）467 分。
 
-Publications
+研究兴趣
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 大语言模型及相关应用；持续探索具体研究问题，并在计算机视觉方向积累基础。

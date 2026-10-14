@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "基于深度学习的机床关键部位应力位移云图的快速预测"
+excerpt: "大连理工大学第二十二届“攀登杯”校级二等奖；担任队长，推进团队协作与项目任务落地。<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+围绕深度学习开展机床关键部位应力位移云图的快速预测。
+
+我担任项目队长，负责推进团队协作与项目任务落地。项目获得大连理工大学第二十二届“攀登杯”校级二等奖。
