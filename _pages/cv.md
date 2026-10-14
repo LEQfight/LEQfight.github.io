@@ -15,8 +15,8 @@ redirect_from:
 
 论文经历
 ======
-* **LMRAR: Probing LLM Reasoning-Aware Representation for Fake News Detection**，ICIC 2026 会议投稿论文，第三作者。
-  * 面向虚假新闻检测，探索大语言模型推理感知表征的应用。
+* **ReaCR: Reasoning-Conditioned Representation Learning for Fake News Detection**，ICIC 2026 会议投稿论文，第三作者。
+  * 面向虚假新闻检测，探索推理条件化表征学习的应用。
   * 负责部分实验运行与实验数据整理，配合团队完成实验结果汇总。
 
 竞赛项目经历
