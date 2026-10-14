@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About Me"
+seo_title: "EnQi Liu -- Homepage"
 author_profile: true
 
 redirect_from:

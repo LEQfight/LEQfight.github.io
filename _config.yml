@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Liu Enqi"
+title                    : "EnQi Liu"
 title_separator          : "-"
-name                     : &name "Liu Enqi"
-description              : &description "Liu Enqi's academic homepage | Undergraduate student in Artificial Intelligence at Dalian University of Technology."
+name                     : &name "EnQi Liu"
+description              : &description "EnQi Liu's academic homepage | Undergraduate student in Artificial Intelligence at Dalian University of Technology."
 url                      : https://leqfight.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "LEQfight/LEQfight.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Liu Enqi"
+  name             : "EnQi Liu"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate student in Artificial Intelligence at Dalian University of Technology. Interested in large language models and reasoning."
   location         : "Dalian, China"
